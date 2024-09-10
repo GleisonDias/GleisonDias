@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm GleisonDias</h1>
-<h3 align="center">A frontend developer from Brazil</h3>}
+<h3 align="center">A frontend developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gif">
 
 - 🌱 I’m currently learning **React.Js e Next.Js**
