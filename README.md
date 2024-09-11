@@ -18,10 +18,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gleisondias" alt="gleisondias" /></a> </p>
 
-<p><img align="left" width="370" src="https://github-readme-stats.vercel.app/api/top-langs?username=gleisondias&show_icons=true&locale=en&layout=compact" alt="gleisondias" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gleisondias&show_icons=true&locale=en" alt="gleisondias" /></p>
-
 <div align="center">
+<p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=gleisondias&show_icons=true&locale=en&layout=compact" alt="gleisondias" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gleisondias&show_icons=true&locale=en" alt="gleisondias" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gleisondias&" alt="gleisondias" /></p>
 </div>
